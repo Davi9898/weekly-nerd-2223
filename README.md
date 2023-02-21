@@ -147,4 +147,5 @@ Hoewel niet elk probleem een zoek probleem is. Bied ElasticSearch snelheid en fl
 
 Zoals je hier boven kan zien kan Elasticsearch veel functionaliteit bieden voor wat ik zelf persoonlijk nogal complexe vraagstukken vind.
 
-Bron: https://www.elastic.co/guide/en/elasticsearch/reference/current/elasticsearch-intro.html
+### Resources
+https://www.elastic.co/guide/en/elasticsearch/reference/current/elasticsearch-intro.html
