@@ -229,3 +229,9 @@ Step b step
 7. Map the potential experiences.
 8. iterate
 
+# Niels Leenheer webdeveloper html5test
+Project Fugu - Project binnen chromium. Het gat tussen native en web applicaties kleiner maken.
+Project fugu maakt het mogelijk. 
+Waarom kan je bvb niet photoshop in de webbrowser gebruiken. Het begint al met het open files.
+bluetooth demo github
+Bluetooth heeft veel mogelijkheden. Soms zit er dus een functie aan een human interface device die je wellicht neit weet en ook kan toepaassen.
