@@ -283,5 +283,12 @@ renderer(performance)
 webxr
 try it
 
-
+# Immersive environments on the web - Brian 
+Brian is vorig jaar afgestudeerd. Brian liet eerst een website zien over de secret sky festival. Hier kwamen honderden gebruikrs bij een immersive omgeving bij elkaar. Het punt was om mensen bij elkaar te brengen. Brian heeft een social immersive enviroment ontwikkelt voor het stedelijk museum. Brian gaat een klein beetje vertellen over het prototypen van een immersive environment.
+    
+    Functionele en technische eisen
+    * het moet aansluiten
+    * het moet een boodschap communiceren met gebruikers.
+    * Multiplayer
+Brown boxing is een super leuke manier om een immserive enviroment tot leven te brengen. Hiervoor gebruik je karton en bijvoorbeeld een Arduino om te prototypen. Natuurlijk als je hebt zitten prototypen moet het ook nog op het web komen. UDP protocol - pakketjes blijven altijd verstuurd ondanks situaties.
 
