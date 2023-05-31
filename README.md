@@ -292,3 +292,32 @@ Brian is vorig jaar afgestudeerd. Brian liet eerst een website zien over de secr
     * Multiplayer
 Brown boxing is een super leuke manier om een immserive enviroment tot leven te brengen. Hiervoor gebruik je karton en bijvoorbeeld een Arduino om te prototypen. Natuurlijk als je hebt zitten prototypen moet het ook nog op het web komen. UDP protocol - pakketjes blijven altijd verstuurd ondanks situaties.
 
+# Chanel Frontend setup in productie
+    Gamen sporten eten series
+    CMD - Front end developer
+    
+    waarom? webstandaarden gaat chanel uitleggen om ons klaar te stomen voor het werk.
+    CHanel legt wat uit over de structuur
+    
+   Git
+   
+    Gebruik je version control
+    je kan debuggs opsporen en rerolls doen zodat je dit kan opsporen.
+    Je kan precies zien we iets heeft geschreven
+    branch -> commit&push -> PR -> Push main -> deploy
+    
+    NPM
+    Kijk of het goed onmderhouden is, meerdere contributors.
+    
+    Setup:
+    react/next
+    
+    Typescript
+    code formatting & fixing
+    
+    vite is een buildtool developer server webpack = zwaar
+    
+    azure azuredevops
+    pipelines tickets
+    
+    dev, acceptatie en productie omgeving
